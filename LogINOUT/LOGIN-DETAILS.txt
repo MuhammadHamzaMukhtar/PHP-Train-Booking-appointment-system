@@ -1,0 +1,17 @@
+**ADMIN LOGIN**
+
+Username: admin
+Email: admin@admin.com
+Password: Password123
+
+**User Login**
+
+Email: kinamem678@hoxds.com
+Password: Hamza4
+
+
+
+**SMTP**
+email:cactisuc123@gmail.com
+Password: uqylyqtmgdtfwelc
+
